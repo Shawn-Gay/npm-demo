@@ -4,15 +4,13 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "target": "es2022",
-    "verbatimModuleSyntax": true,
     "allowJs": true,
     "resolveJsonModule": true,
-    "moduleDetection": "force",
     /* Strictness */
     "strict": true,
     "noUncheckedIndexedAccess": true,
     /* If NOT transpiling with TypeScript: */
-    "moduleResolution": "Bundler",
+    "moduleResolution": "node",
     "module": "ESNext",
     "noEmit": true,
     /* If your code runs in the DOM: */
