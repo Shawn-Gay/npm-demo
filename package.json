@@ -1,7 +1,7 @@
 {
   "name": "@ghawn-say/components",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Simple React components built with shadcn/ui and Tailwind CSS",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
